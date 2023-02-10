@@ -201,7 +201,11 @@ highlight-style: a11y
 
 # 5. Take Care of Yourself
 
+
+
 ## You Can’t Please All 6 of Your Bosses
+
+-
 
 
 ## Managing Up
