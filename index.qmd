@@ -1,0 +1,48 @@
+---
+title: "Psychological Safety and Self Compassion in Learning"
+author: Ted Laderas
+date: 1/12/2023
+format: 
+  revealjs:
+    standalone: true
+    theme: night
+    progress: true
+    footer: <https://laderast.github.io/qmd_rmd/>
+incremental: false
+highlight-style: a11y
+---
+
+## Bio
+
+
+
+
+## TL;DR
+
+- You all are smart and brilliant people
+- Don't beat yourself up while learning
+- Find your crew who you can learn with safely
+- When possible, make things public
+
+# You are all Smart and Brilliant People
+
+## Learning is Hard
+
+- Having the courage to learn (You)
+- Feeling Safe Enough to Try (Environment)
+
+# Don't beat yourself up while learning
+
+## Deprogram Your Old Tapes
+
+> I'm going to yell at you so you will remember what I am saying. - A Terrible Instructor
+
+## Embrace Life Long Learning
+
+
+# Finding your crew
+
+
+# Making Things Public
+
+## Be Safe in the Face of Double Standards
