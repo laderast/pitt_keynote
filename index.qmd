@@ -7,7 +7,7 @@ format:
   revealjs:
     preview-links: true
     standalone: true
-    theme: night
+    theme: sky
     progress: true
     footer: <https://laderast.github.io/pitt_keynote>
 incremental: false
@@ -17,15 +17,19 @@ highlight-style: a11y
 ## Bio {.smaller}
 
 :::: {.columns}
+
 ::: {.column width="35%"}
+:::{.fragment}
 - Former academic that loves teaching
 - Data Scientist/Bioinformatician 20+ years
 - Not afraid of Clinical Data
 - Bioinformatics Trainer at DNAnexus
 - Psychological Safety for Everyone
 :::
+:::
 
 ::: {.column width="35%"}
+:::{.fragment}
 - Ready for R
 - Data Analytics
 - Cloud for HPC Users
@@ -33,6 +37,7 @@ highlight-style: a11y
 - OHSU BioData Club
 - Cascadia-R
 - cvdRiskData
+:::
 :::
 
 ::: {.column width="30%"}
@@ -42,7 +47,7 @@ highlight-style: a11y
 
 
 
-## TL;DR
+## TL; DR
 
 - You all are smart and brilliant people
 - Don’t beat yourself up while learning
@@ -56,7 +61,7 @@ highlight-style: a11y
 3. Learn Things Together
 4. Build Things Together
 5. Take Care of Yourself
-6. Share Things
+6. Share Things in Public
 
 # 1.  Have Values
 
@@ -77,9 +82,39 @@ highlight-style: a11y
 
 ## Be Compassionate and Gentle With Yourself
 
+::::{.columns}
+:::{.column width="60%"}
+:::{.increment}
 - Data Science is Hard
 - Don’t Replay Negative Tapes
 - Find people to Learn With
+:::
+:::
+:::{.column width="40%"}
+{{< fa heart size=8x >}}
+:::
+::::
+
+## Learning Self-Talk from Students
+
+> It’s okay not to know how to do something, practice makes perfect!
+
+> It will be hard to learn, but so much fun and worth it.
+
+> Dedicate couple hours for practice a day
+
+## Learning Self-Talk
+
+> It's going to be okay, it's really overwhelming right now but Ted is patient and thorough. 
+
+> It's a good thing that you're looking at multiple sources of information about R (i.e. a brief Code Academy stint, the KCRB R4DS group, R Bootcamp links), it will just serve to solidify the topics that get covered. 
+
+> Don't forget to Google, remember to ask questions.
+
+
+## This is What it Takes
+
+![](ready4r-word-cloud3.png)
 
 ## The 5 minute rule for learning
 
@@ -90,40 +125,67 @@ highlight-style: a11y
 ::::{.columns}
 :::{.column}
 - Use Social Learning to learn faster 
-- Having a group makes things easier
+- Having a group makes learning easier
 :::
 :::{.column}
 ![](dangerous.png)
 :::
 ::::
+
 # 2. Meet People
 
 ## Who Should You Meet?
 
+- Fellow Learners!
 - Potential Collaborators
 - Potential Employers
+:::{.fragment}
 - "Weak Ties"
+:::
 
 ## An Introvert’s Guide to Networking
 
+:::{.incremental}
 - Networking is not about promoting yourself
 - It’s about being curious about other people
 - Finding common ground and seeing if you want to work with them
+:::
 
+:::{.fragment .fade-in}
 [How to Network in a Non-slimy Way](https://laderast.github.io/articles/2021-09-13-how-to-network-in-a-non-slimy-way/how-to-network-in-a-non-slimy-way.html)
+:::
 
 ## Be Curious About Other People
 
+::::{.columns}
+:::{.column}
+:::{.incremental}
 - Practice Informational Interviewing
 - Don't overthink your questions
 - Be genuinely interested in what people do
 - Don't limit yourself to your field
+:::
+:::
+:::{.column}
+{{< fa user-group size=8x >}}
+:::
+::::
 
 ## Do or Attend Lightning Talks!
 
+::::{.columns}
+:::{.column width="65%"}
+:::{.incremental}
 - Lightning talk: 5-10 minute invitation to chat
 - Best way to advertise what you're interested in
 - Best way to meet people with your same interests
+:::
+:::
+:::{.column width="35%"}
+{{< fa bolt size=8x >}}
+:::
+::::
+
 
 ## Volunteer at Conferences
 
@@ -138,11 +200,20 @@ highlight-style: a11y
 :::
 ::::
 
-## Should You Collaborate?
-
-
 
 # 3. Learn Things Together
+
+## Compassion = Psychological Safety
+
+> Psychological safety is being able to show and employ one's self without fear of negative consequences of self-image, status or career.
+
+:::{.fragment}
+[Lowering Psychological Burdens for Students](https://laderast.github.io/talks/2021-03-22-psychological-safety/)
+:::
+
+## Psychological Safety -> Effective Learning
+
+You need to find it for yourself
 
 ## Start or Join a Group!
 
@@ -155,6 +226,40 @@ highlight-style: a11y
 - Establish the tone for the group
 - States unacceptable behavior
 
+## Example: OHSU BioData Club
+
+::::{.columns}
+:::{.column width="50%"}
+- Started as a group that wanted to learn more data science
+- Everyone is Equal (PhD, Postdoc, Faculty)
+- Working through problems together
+:::
+:::{.column width="50%"}
+![](bdc-small.png)
+:::
+::::
+
+## Learners as the best teachers
+
+::::{.columns}
+:::{.column}
+- You remember how hard it is
+- 1 week ahead
+- Coaching/pedagogy
+:::
+::::
+
+## The best teachers
+
+::: {.r-stack}
+![](reproducible-paper.png) {.fragment width=600}
+![](tableau.png) {.fragment width=600}
+![](python-pandas.png) {.fragment width=600}
+![](r-ggplot2.png) {.fragment width=600}
+:::
+
+# Other Groups That Are Awesome
+
 ## Tidy Tuesday
 
 ::::{.columns}
@@ -165,7 +270,7 @@ highlight-style: a11y
 :::
 
 :::{.column width="60%"}
-![Unique Animal Crossing Personalities](animal_crossing.png)
+![[Unique Animal Crossing Personalities](https://laderast.github.io/articles/2020-05-05_animal-crossing/animal-crossing.html)](animal_crossing.png)
 :::
 ::::
 
@@ -175,35 +280,16 @@ highlight-style: a11y
 
 
 
-## OHSU BioData Club
-
-::::{.columns}
-:::{.column width="50%"}
-- Everyone is Equal (PhD, Postdoc, Faculty)
-- Working through problems together
-:::
-:::{.column width="50%"}
-![](bdc-small.png)
-:::
-::::
-
-##
-
-- Learners are the best teachers
-  - You just need to be 1 week ahead...
-  - And given some coaching/pedagogy...
-
-## What we taught each other
-
-
 
 ## CSVConf
 
-- 
+![](csvconf.png)
 
 ## The Carpentries
 
 - Teaching Certification
+
+!{}(TheCarpentries.svg)
 
 ## Symposium for Data Science and Statistics
 
@@ -211,12 +297,14 @@ highlight-style: a11y
 
 ## rOpenSci
 
+## Compassion in Teaching
 
-
+- [Psychological Safety for All](https://laderast.github.io/psych_safety/#1)
+- [Using Cognitive Science to Make Training Stick](https://laderast.github.io/talks/2022-10-7-using-cognitive-science/)
 
 ## My Promise
 
-- For a student organization,
+- For a student organization at Pitt
 - I will give a 2 hour workshop for free on either
   - tidyverse
   - Shiny
@@ -228,13 +316,14 @@ highlight-style: a11y
 - Academic Consortia
 - Industry
 
+:::{.fragment}
 ['Yes, and...' is the foundation of collaboration](https://laderast.github.io/posts/2022-02-27-yes-and-is-the-foundation-of-collaboration/)
+:::
 
 ## Cascadia R Conf: Empower Others
 
 ![2023](logo_2023.png)
 
-## Data Analytics
 
 ## R-Bootcamp
 
@@ -245,7 +334,7 @@ highlight-style: a11y
 ::::{.columns}
 :::{.column}
 - Free for all!
-- Leverage Posit Cloud
+- Leverage Posit Cloud (free)
 - Videos
 - Notebooks
 :::
@@ -254,6 +343,8 @@ highlight-style: a11y
 ![](ready4r.png)
 :::
 ::::
+
+## Testimony
 
 >  Having [you] talk over the content providing examples and also answering student related questions was really helpful to see how some queries I had, others were having, which you explained, sometimes even providing more than one solution. Thanks very much. I have developed a passion for R.
 

@@ -1,0 +1,842 @@
+[
+  {
+    "objectID": "new_talk.html#bio",
+    "href": "new_talk.html#bio",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Bio",
+    "text": "Bio\n\n\n\nFormer academic that loves teaching\nData Scientist/Bioinformatician 20+ years\nNot afraid of Clinical Data\nBioinformatics Trainer at DNAnexus\nPsychological Safety for Everyone\n\n\n\nReady for R\nData Analytics\nCloud for HPC Users\nGradual Introduction to Shiny\nOHSU BioData Club\nCascadia-R\ncvdRiskData"
+  },
+  {
+    "objectID": "new_talk.html#tldr",
+    "href": "new_talk.html#tldr",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "TL;DR",
+    "text": "TL;DR\n\nYou all are smart and brilliant people\nDon’t beat yourself up while learning\nFind your crew who you can learn with safely\nWhen possible, make things public"
+  },
+  {
+    "objectID": "new_talk.html#my-advice-to-grow-as-a-data-scientist",
+    "href": "new_talk.html#my-advice-to-grow-as-a-data-scientist",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "My Advice to Grow as a Data Scientist",
+    "text": "My Advice to Grow as a Data Scientist\n\nHave Values\nMeet people\nLearn Things Together\nBuild Things Together\nTake Care of Yourself\nShare Things"
+  },
+  {
+    "objectID": "new_talk.html#why-values",
+    "href": "new_talk.html#why-values",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Why Values?",
+    "text": "Why Values?\n\nValues help you say yes\nValues Help you say no"
+  },
+  {
+    "objectID": "new_talk.html#my-values",
+    "href": "new_talk.html#my-values",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "My Values",
+    "text": "My Values\n\nCuriosity (about learning and others)\nCompassion (for myself and others)"
+  },
+  {
+    "objectID": "new_talk.html#there-is-more-than-one-path",
+    "href": "new_talk.html#there-is-more-than-one-path",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "There is more than one path",
+    "text": "There is more than one path\n\nQuestion the PI model\nCollaboration is the most important"
+  },
+  {
+    "objectID": "new_talk.html#be-compassionate-and-gentle-with-yourself",
+    "href": "new_talk.html#be-compassionate-and-gentle-with-yourself",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Be Compassionate and Gentle With Yourself",
+    "text": "Be Compassionate and Gentle With Yourself\n\nData Science is Hard\nDon’t Replay Negative Tapes\nFind people to Learn With"
+  },
+  {
+    "objectID": "new_talk.html#an-introverts-guide-to-networking",
+    "href": "new_talk.html#an-introverts-guide-to-networking",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "An Introvert’s Guide to Networking",
+    "text": "An Introvert’s Guide to Networking\n\nNetworking is not about promoting yourself\nIt’s about being curious about other people\nFinding common ground and seeing if you want to work with them\n\nHow to Network in a Non-slimy Way"
+  },
+  {
+    "objectID": "new_talk.html#be-curious-about-other-people",
+    "href": "new_talk.html#be-curious-about-other-people",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Be Curious About Other People",
+    "text": "Be Curious About Other People\n\nPractice Informational Interviewing\nDon’t overthink your questions\nBe genuinely interested in what people do\nDon’t limit yourself to your field"
+  },
+  {
+    "objectID": "new_talk.html#do-or-attend-lightning-talks",
+    "href": "new_talk.html#do-or-attend-lightning-talks",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Do or Attend Lightning Talks!",
+    "text": "Do or Attend Lightning Talks!\n\nLightning talk: 5-10 minute invitation to chat\nBest way to advertise what you’re interested in\nBest way to meet people with your same interests"
+  },
+  {
+    "objectID": "new_talk.html#volunteer-at-conferences",
+    "href": "new_talk.html#volunteer-at-conferences",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Volunteer at Conferences",
+    "text": "Volunteer at Conferences\n\n\n\nLow-key way to meet people\nWorking on things together is super helpful\nExample: TA for Building Tidy Tools Workshop\n\n\n\n\n\nBuilding Tidy Tools - Thanks Ian and Emma!"
+  },
+  {
+    "objectID": "new_talk.html#should-you-collaborate",
+    "href": "new_talk.html#should-you-collaborate",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Should You Collaborate?",
+    "text": "Should You Collaborate?"
+  },
+  {
+    "objectID": "new_talk.html#the-5-minute-rule",
+    "href": "new_talk.html#the-5-minute-rule",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "The 5 minute rule",
+    "text": "The 5 minute rule"
+  },
+  {
+    "objectID": "new_talk.html#ohsu-biodata-club",
+    "href": "new_talk.html#ohsu-biodata-club",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "OHSU BioData Club",
+    "text": "OHSU BioData Club\n\n\n\nEveryone is Equal (PhD, Postdoc, Faculty)\nWorking through problems together\nLearners are the best teachers\n\nYou just need to be 1 week ahead…\nAnd given some coaching/pedagogy"
+  },
+  {
+    "objectID": "new_talk.html#csvconf",
+    "href": "new_talk.html#csvconf",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "CSVConf",
+    "text": "CSVConf"
+  },
+  {
+    "objectID": "new_talk.html#the-carpentries",
+    "href": "new_talk.html#the-carpentries",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "The Carpentries",
+    "text": "The Carpentries\n\nTeaching Certification"
+  },
+  {
+    "objectID": "new_talk.html#symposium-for-data-science-and-statistics",
+    "href": "new_talk.html#symposium-for-data-science-and-statistics",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Symposium for Data Science and Statistics",
+    "text": "Symposium for Data Science and Statistics"
+  },
+  {
+    "objectID": "new_talk.html#r-for-data-science",
+    "href": "new_talk.html#r-for-data-science",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "R for Data Science",
+    "text": "R for Data Science"
+  },
+  {
+    "objectID": "new_talk.html#collaboration-is-fun-and-a-vital-skill",
+    "href": "new_talk.html#collaboration-is-fun-and-a-vital-skill",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Collaboration is Fun and a Vital Skill",
+    "text": "Collaboration is Fun and a Vital Skill\n\nAcademic Consortia\nIndustry\n\n‘Yes, and…’ is the foundation of collaboration"
+  },
+  {
+    "objectID": "new_talk.html#thank-you-to-everyone",
+    "href": "new_talk.html#thank-you-to-everyone",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Thank You To Everyone",
+    "text": "Thank You To Everyone\n\n\n\nAaron Coyner\nAaron Makabuya\nAlbert Kim\nAlex Michel\nAlison Hill\nAllison Horst\nAmelia Abreu\nAnastazie Sedlakova\nAndrew Heiss\nAngela Li\nAntoinette Foster\nAriel Muldoon\nAsia Mitchell\n\n\n\nBen Busby\nBeth Duckles\nBob Rudis\nBrendan Cullen\nBrittany Barker\nCaitlin Hudon\nCass Wilkinson Saldana\nChai Fungtammasan\nCharles Grey\nCharlotte Wickham\nChelsea Parlett-Perlitti\nChester Ismay\nConnor Smith\nDaniel Chen\n\n\n\nDaniel Sjoberg\nDaniel Anderson\nDaniela Sadieri\nDanielle Robinson\nDanielle Navarro\nDar’ya Pozhidayeva\nDavid Keyes\nDavid Dorr\nElin Waring\nEllis Hughes\nEmile Latour\nEmma Rand\nEric Earl\nEric Leung\nEric Feczko\n\n\n\nGabriela de Quieroz\nGarrick Aden-Buie\nGina Reynolds\nGreg Wilson\nHao Ye\nHeather Nolis\nIan Lyttle\nInes Montani\nIsabella Ghement\nJackie Wirz\nJacqueline Nolis\nJames Eddy"
+  },
+  {
+    "objectID": "new_talk.html#bio-1",
+    "href": "new_talk.html#bio-1",
+    "title": "“Psychological Safety and Self Compassion in Learning”",
+    "section": "Bio",
+    "text": "Bio\n\n\nAaron Coyner Aaron Makabuya Albert Kim Alex Michel Alison Hill Allison Horst Amelia Abreu Anastazie Sedlakova Andrew Heiss Angela Li Antoinette Foster Ariel Muldoon Asia Mitchell Ben Busby Beth Duckles Bob Rudis Brendan Cullen Brittany Barker Cass Wilkinson Saldana Chai Fungtammasan Charles Grey\n\nCharlotte Wickham Chester Ismay Connor Smith Daniel Chen Daniel Sjoberg Daniel Anderson Daniela Sadieri Danielle Robinson Danielle Navarro Dar’ya Pozhidayeva David Keyes David Dorr Elin Waring Ellis Hughes Emile Latour Emma Rand Eric Earl Eric Leung Eric Feczko Gabriela de Quieroz Garrick Aden-Buie Gina Reynolds Greg Wilson Hao Ye Heather Nolis Ian Lyttle Ines Montani Isabella Ghement Jackie Wirz Jacqueline Nolis James Eddy Jason Williams JD Long Jennifer Thompson Jeremy Allen Jeroen Janssens Jesse Mostipak Jessica Minnier John David Smith Jon Harmon Jonah Duckles JP Gourdine Julia Stewart-Lowndes Julia Silge Kaitlin Hudon Kara Woo Kari Jordan Karl Broman Kate Hertweck Kelly Bodwin Kevin Watanabe-Smith Kristi Holmes Kristin Bott Kristine Alpi Laura Ación Leo Collado-Torres Letisha Wyatt Lilly Winfree Lisa Karstens Lucille Moore Mackenzie Grey Mackenzie Kesler Mara Averick Mara Alexeev Marijane White Mark Klick Marley Buchman Maya Gans Meike Niederhausen Melissa Haendel Miles Ott Mine Dogucu Mine Çetinkaya-Rundel\nMonica Gerber Mouna Belaid Nate Lazar Nick Wong Nick Tierney Ondrej Klempir Oscar Baruffa Peter Higgins Phillip Robinson Pierrette Lo Randy Au Rebecca Barter Robin Champieux Rory Blucher Ryan Swan Ryo Nakagawara Sami Friedrich Sarah Florig Scott Chamberlain Shannon McWeeney Stefanie Butland Stephan Kadauke Stephanie Hazlitt Tom Mock Tracy Teal Travis Gerke Tuan Nguyen Yanina Saibene"
+  },
+  {
+    "objectID": "new_talk.html#cascadia-r-conf-empower-others",
+    "href": "new_talk.html#cascadia-r-conf-empower-others",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Cascadia R Conf: Empower Others",
+    "text": "Cascadia R Conf: Empower Others\n\n2023"
+  },
+  {
+    "objectID": "new_talk.html#r-bootcamp",
+    "href": "new_talk.html#r-bootcamp",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "R-Bootcamp",
+    "text": "R-Bootcamp"
+  },
+  {
+    "objectID": "new_talk.html#ready-for-r",
+    "href": "new_talk.html#ready-for-r",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Ready for R",
+    "text": "Ready for R\n\n\nHaving [you] talk over the content providing examples and also answering student related questions was really helpful to see how some queries I had, others were having, which you explained, sometimes even providing more than one solution. Thanks very much. I have developed a passion for R."
+  },
+  {
+    "objectID": "new_talk.html#uk-biobank-rap-community",
+    "href": "new_talk.html#uk-biobank-rap-community",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "UK Biobank RAP community",
+    "text": "UK Biobank RAP community\n\nGenomics on the cloud\nPlan learning paths"
+  },
+  {
+    "objectID": "new_talk.html#you-cant-please-all-6-of-your-bosses",
+    "href": "new_talk.html#you-cant-please-all-6-of-your-bosses",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "You Can’t Please All 6 of Your Bosses",
+    "text": "You Can’t Please All 6 of Your Bosses"
+  },
+  {
+    "objectID": "new_talk.html#live-a-full-life-it-enriches-you",
+    "href": "new_talk.html#live-a-full-life-it-enriches-you",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Live a Full Life, It Enriches You",
+    "text": "Live a Full Life, It Enriches You"
+  },
+  {
+    "objectID": "new_talk.html#you-are-a-limited-resource",
+    "href": "new_talk.html#you-are-a-limited-resource",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "You are a Limited Resource",
+    "text": "You are a Limited Resource"
+  },
+  {
+    "objectID": "new_talk.html#you-cant-save-everyone",
+    "href": "new_talk.html#you-cant-save-everyone",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "You can’t save everyone",
+    "text": "You can’t save everyone"
+  },
+  {
+    "objectID": "new_talk.html#trying-to-get-better",
+    "href": "new_talk.html#trying-to-get-better",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Trying to get Better",
+    "text": "Trying to get Better\n\nValues are your key to overload and burnout\nThey help you decide what to work on\nThey help you set boundaries"
+  },
+  {
+    "objectID": "new_talk.html#my-values-1",
+    "href": "new_talk.html#my-values-1",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "My Values",
+    "text": "My Values\n\nCuriosity\nCompassion (including Self and others)"
+  },
+  {
+    "objectID": "new_talk.html#give-yourself-permission-to-learn",
+    "href": "new_talk.html#give-yourself-permission-to-learn",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Give Yourself Permission to learn",
+    "text": "Give Yourself Permission to learn\n\nData Science is Hard\nBe gentle and compassionate with yourself\nIt’s ok to immediately not get it\nGive yourself five minutes"
+  },
+  {
+    "objectID": "new_talk.html#learning-is-hard",
+    "href": "new_talk.html#learning-is-hard",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Learning is Hard",
+    "text": "Learning is Hard\n\nHaving the courage to learn (You)\nFeeling Safe Enough to Try (Environment)"
+  },
+  {
+    "objectID": "new_talk.html#asking-questions-takes-a-community",
+    "href": "new_talk.html#asking-questions-takes-a-community",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Asking questions takes a community",
+    "text": "Asking questions takes a community\n\nAsking questions is taking care of your cohort\nEveryone has the same questions as you"
+  },
+  {
+    "objectID": "new_talk.html#coaching-instructors",
+    "href": "new_talk.html#coaching-instructors",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Coaching Instructors",
+    "text": "Coaching Instructors"
+  },
+  {
+    "objectID": "new_talk.html#cognitive-load-theory",
+    "href": "new_talk.html#cognitive-load-theory",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Cognitive Load Theory",
+    "text": "Cognitive Load Theory"
+  },
+  {
+    "objectID": "new_talk.html#deprogram-your-old-tapes",
+    "href": "new_talk.html#deprogram-your-old-tapes",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Deprogram Your Old Tapes",
+    "text": "Deprogram Your Old Tapes\n\nI’m going to yell at you so you will remember what I am saying. - A Terrible Instructor"
+  },
+  {
+    "objectID": "new_talk.html#embrace-life-long-learning",
+    "href": "new_talk.html#embrace-life-long-learning",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Embrace Life Long Learning",
+    "text": "Embrace Life Long Learning"
+  },
+  {
+    "objectID": "new_talk.html#be-safe-in-the-face-of-double-standards",
+    "href": "new_talk.html#be-safe-in-the-face-of-double-standards",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Be Safe in the Face of Double Standards",
+    "text": "Be Safe in the Face of Double Standards\n\n\nhttps://laderast.github.io/pitt_keynote"
+  },
+  {
+    "objectID": "new_talk.html#thank-you-page-2",
+    "href": "new_talk.html#thank-you-page-2",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Thank You (page 2)",
+    "text": "Thank You (page 2)\n\n\n\nJason Williams\nJD Long\nJennifer Thompson\nJeremy Allen\nJeroen Janssens\nJesse Mostipak\nJessica Minnier\nJohn David Smith\nJon Harmon\nJonah Duckles\nJP Gourdine\nJulia Stewart-Lowndes\nJulia Silge\n\n\n\nKara Woo\nKari Jordan\nKarl Broman\nKate Hertweck\nKelly Bodwin\nKevin Watanabe-Smith\nKristi Holmes\nKristin Bott\nKristine Alpi\nLaura Ación\nLeo Collado-Torres\n\n\n\nLetisha Wyatt\nLilly Winfree\nLisa Karstens\nLucille Moore\nMackenzie Gray\nMackenzie Kesler\nMara Averick\nMara Alexeev\nMarijane White\nMark Klick\nMarley Buchman\nMaya Gans\n\n\n\nMeike Niederhausen\nMelissa Haendel\nMiles Ott\nMine Dogucu\nMine Çetinkaya-Rundel\nMonica Gerber\nMouna Belaid\nNate Lazar\nNick Wong\nNick Tierney\nOndrej Klempir\nOscar Baruffa\nPeter Higgins\nPhillip Robinson\nPierrette Lo\nRandy Au\nRebecca Barter\nRobin Champieux\n\n\n\nRory Blucher\nRyan Swan\nRyo Nakagawara\nSami Friedrich\nSarah Florig\nScott Chamberlain\nShannon McWeeney\nStefanie Butland\nStephan Kadauke\nStephanie Hazlitt\nTom Mock\nTracy Teal\nTravis Gerke\nTuan Nguyen\nYanina Saibene"
+  },
+  {
+    "objectID": "new_talk.html#who-should-you-meet",
+    "href": "new_talk.html#who-should-you-meet",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Who Should You Meet?",
+    "text": "Who Should You Meet?\n\nPotential Collaborators\nPotential Employers\n“Weak Ties”"
+  },
+  {
+    "objectID": "new_talk.html#the-5-minute-rule-for-learning",
+    "href": "new_talk.html#the-5-minute-rule-for-learning",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "The 5 minute rule for learning",
+    "text": "The 5 minute rule for learning"
+  },
+  {
+    "objectID": "new_talk.html#data-visualization-society",
+    "href": "new_talk.html#data-visualization-society",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Data Visualization Society",
+    "text": "Data Visualization Society"
+  },
+  {
+    "objectID": "new_talk.html#managing-burnout",
+    "href": "new_talk.html#managing-burnout",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Managing Burnout",
+    "text": "Managing Burnout\n\nBurnout is a systemic bug\nNeeds to be managed at multiple levels\n\n\nAsking for Help to Get Better"
+  },
+  {
+    "objectID": "new_talk.html#social-media-is-a-double-edged-sword",
+    "href": "new_talk.html#social-media-is-a-double-edged-sword",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Social Media is a Double-Edged Sword",
+    "text": "Social Media is a Double-Edged Sword\n\nEspecially for BIPOC\nYour mental health matters\nBe aware and use blocking tools"
+  },
+  {
+    "objectID": "new_talk.html#is-twitter-worth-it-anymore",
+    "href": "new_talk.html#is-twitter-worth-it-anymore",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Is Twitter Worth it Anymore?",
+    "text": "Is Twitter Worth it Anymore?"
+  },
+  {
+    "objectID": "new_talk.html#start-a-group",
+    "href": "new_talk.html#start-a-group",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Start a Group!",
+    "text": "Start a Group!"
+  },
+  {
+    "objectID": "new_talk.html#participate-in-one-csvconf",
+    "href": "new_talk.html#participate-in-one-csvconf",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Participate in one! CSVConf",
+    "text": "Participate in one! CSVConf"
+  },
+  {
+    "objectID": "new_talk.html#ropensci",
+    "href": "new_talk.html#ropensci",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "rOpenSci",
+    "text": "rOpenSci"
+  },
+  {
+    "objectID": "new_talk.html#managing-up",
+    "href": "new_talk.html#managing-up",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Managing Up",
+    "text": "Managing Up\n\nCommunicating with your manager what you need\nEducating them about what they’re curious about"
+  },
+  {
+    "objectID": "new_talk.html#its-dangerous-to-learn-alone",
+    "href": "new_talk.html#its-dangerous-to-learn-alone",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "It’s Dangerous to Learn Alone",
+    "text": "It’s Dangerous to Learn Alone"
+  },
+  {
+    "objectID": "new_talk.html#start-or-join-a-group",
+    "href": "new_talk.html#start-or-join-a-group",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Start or Join a Group!",
+    "text": "Start or Join a Group!\n\nFind your like minded peers\nHelp each other learn\nFind groups that have Codes of Conduct"
+  },
+  {
+    "objectID": "new_talk.html#why-are-codes-of-conduct-important",
+    "href": "new_talk.html#why-are-codes-of-conduct-important",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Why are Codes of Conduct Important?",
+    "text": "Why are Codes of Conduct Important?\n\nEstablish the tone for the group\nStates unacceptable behavior"
+  },
+  {
+    "objectID": "new_talk.html#tidy-tuesday",
+    "href": "new_talk.html#tidy-tuesday",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Tidy Tuesday",
+    "text": "Tidy Tuesday\n\n\n\nWeekly Dataset\nLearn from other’s code\nShare your visualizations/code\n\n\n\n\n\nUnique Animal Crossing Personalities"
+  },
+  {
+    "objectID": "new_talk.html#my-promise",
+    "href": "new_talk.html#my-promise",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "My Promise",
+    "text": "My Promise\n\nFor a student organization,\nI will give a 2 hour workshop for free on either\n\ntidyverse\nShiny"
+  },
+  {
+    "objectID": "new_talk.html#data-analytics",
+    "href": "new_talk.html#data-analytics",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Data Analytics",
+    "text": "Data Analytics"
+  },
+  {
+    "objectID": "new_talk.html#look-for-alternatives",
+    "href": "new_talk.html#look-for-alternatives",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Look for Alternatives",
+    "text": "Look for Alternatives"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Bio",
+    "text": "Bio\n\n\n\n\nFormer academic that loves teaching\nData Scientist/Bioinformatician 20+ years\nNot afraid of Clinical Data\nBioinformatics Trainer at DNAnexus\nPsychological Safety for Everyone\n\n\n\n\n\nReady for R\nData Analytics\nCloud for HPC Users\nGradual Introduction to Shiny\nOHSU BioData Club\nCascadia-R\ncvdRiskData"
+  },
+  {
+    "objectID": "index.html#tldr",
+    "href": "index.html#tldr",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "TL;DR",
+    "text": "TL;DR\n\nYou all are smart and brilliant people\nDon’t beat yourself up while learning\nFind your crew who you can learn with safely\nWhen possible, make things public"
+  },
+  {
+    "objectID": "index.html#my-advice-to-grow-as-a-data-scientist",
+    "href": "index.html#my-advice-to-grow-as-a-data-scientist",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "My Advice to Grow as a Data Scientist",
+    "text": "My Advice to Grow as a Data Scientist\n\nHave Values\nMeet people\nLearn Things Together\nBuild Things Together\nTake Care of Yourself\nShare Things in Public"
+  },
+  {
+    "objectID": "index.html#why-values",
+    "href": "index.html#why-values",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Why Values?",
+    "text": "Why Values?\n\nValues help you say yes\nValues Help you say no"
+  },
+  {
+    "objectID": "index.html#my-values",
+    "href": "index.html#my-values",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "My Values",
+    "text": "My Values\n\nCuriosity (about learning and others)\nCompassion (for myself and others)"
+  },
+  {
+    "objectID": "index.html#there-is-more-than-one-path",
+    "href": "index.html#there-is-more-than-one-path",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "There is more than one path",
+    "text": "There is more than one path\n\nQuestion the PI model\nCollaboration is the most important"
+  },
+  {
+    "objectID": "index.html#be-compassionate-and-gentle-with-yourself",
+    "href": "index.html#be-compassionate-and-gentle-with-yourself",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Be Compassionate and Gentle With Yourself",
+    "text": "Be Compassionate and Gentle With Yourself\n\n\n\nData Science is Hard\nDon’t Replay Negative Tapes\nFind people to Learn With"
+  },
+  {
+    "objectID": "index.html#the-5-minute-rule-for-learning",
+    "href": "index.html#the-5-minute-rule-for-learning",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "The 5 minute rule for learning",
+    "text": "The 5 minute rule for learning\n\nIf something doesn’t make sense, take a walk or a break and come back to it."
+  },
+  {
+    "objectID": "index.html#its-dangerous-to-learn-alone",
+    "href": "index.html#its-dangerous-to-learn-alone",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "It’s Dangerous to Learn Alone",
+    "text": "It’s Dangerous to Learn Alone\n\n\n\nUse Social Learning to learn faster\nHaving a group makes learning easier"
+  },
+  {
+    "objectID": "index.html#who-should-you-meet",
+    "href": "index.html#who-should-you-meet",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Who Should You Meet?",
+    "text": "Who Should You Meet?\n\nPotential Collaborators\nPotential Employers :::{.fragment}\n“Weak Ties” :::"
+  },
+  {
+    "objectID": "index.html#an-introverts-guide-to-networking",
+    "href": "index.html#an-introverts-guide-to-networking",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "An Introvert’s Guide to Networking",
+    "text": "An Introvert’s Guide to Networking\n\n\nNetworking is not about promoting yourself\nIt’s about being curious about other people\nFinding common ground and seeing if you want to work with them\n\n\n\nHow to Network in a Non-slimy Way"
+  },
+  {
+    "objectID": "index.html#be-curious-about-other-people",
+    "href": "index.html#be-curious-about-other-people",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Be Curious About Other People",
+    "text": "Be Curious About Other People\n\n\n\n\nPractice Informational Interviewing\nDon’t overthink your questions\nBe genuinely interested in what people do\nDon’t limit yourself to your field"
+  },
+  {
+    "objectID": "index.html#do-or-attend-lightning-talks",
+    "href": "index.html#do-or-attend-lightning-talks",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Do or Attend Lightning Talks!",
+    "text": "Do or Attend Lightning Talks!\n\n\n\n\nLightning talk: 5-10 minute invitation to chat\nBest way to advertise what you’re interested in\nBest way to meet people with your same interests"
+  },
+  {
+    "objectID": "index.html#volunteer-at-conferences",
+    "href": "index.html#volunteer-at-conferences",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Volunteer at Conferences",
+    "text": "Volunteer at Conferences\n\n\n\nLow-key way to meet people\nWorking on things together is super helpful\nExample: TA for Building Tidy Tools Workshop\n\n\n\n\n\nBuilding Tidy Tools - Thanks Ian and Emma!"
+  },
+  {
+    "objectID": "index.html#should-you-collaborate",
+    "href": "index.html#should-you-collaborate",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Should You Collaborate?",
+    "text": "Should You Collaborate?"
+  },
+  {
+    "objectID": "index.html#start-or-join-a-group",
+    "href": "index.html#start-or-join-a-group",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Start or Join a Group!",
+    "text": "Start or Join a Group!\n\nFind your like minded peers\nHelp each other learn\nFind groups that have Codes of Conduct"
+  },
+  {
+    "objectID": "index.html#why-are-codes-of-conduct-important",
+    "href": "index.html#why-are-codes-of-conduct-important",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Why are Codes of Conduct Important?",
+    "text": "Why are Codes of Conduct Important?\n\nEstablish the tone for the group\nStates unacceptable behavior"
+  },
+  {
+    "objectID": "index.html#tidy-tuesday",
+    "href": "index.html#tidy-tuesday",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Tidy Tuesday",
+    "text": "Tidy Tuesday\n\n\n\nWeekly Dataset\nLearn from other’s code\nShare your visualizations/code\n\n\n\n\n\nUnique Animal Crossing Personalities"
+  },
+  {
+    "objectID": "index.html#r-for-data-science",
+    "href": "index.html#r-for-data-science",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "R for Data Science",
+    "text": "R for Data Science"
+  },
+  {
+    "objectID": "index.html#data-visualization-society",
+    "href": "index.html#data-visualization-society",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Data Visualization Society",
+    "text": "Data Visualization Society"
+  },
+  {
+    "objectID": "index.html#ohsu-biodata-club",
+    "href": "index.html#ohsu-biodata-club",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "OHSU BioData Club",
+    "text": "OHSU BioData Club\n\n\n\nEveryone is Equal (PhD, Postdoc, Faculty)\nWorking through problems together"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "",
+    "text": "Learners are the best teachers\n\nYou just need to be 1 week ahead…\nAnd given some coaching/pedagogy…"
+  },
+  {
+    "objectID": "index.html#what-we-taught-each-other",
+    "href": "index.html#what-we-taught-each-other",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "What we taught each other",
+    "text": "What we taught each other"
+  },
+  {
+    "objectID": "index.html#csvconf",
+    "href": "index.html#csvconf",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "CSVConf",
+    "text": "CSVConf"
+  },
+  {
+    "objectID": "index.html#the-carpentries",
+    "href": "index.html#the-carpentries",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "The Carpentries",
+    "text": "The Carpentries\n\nTeaching Certification\n\n!{}(TheCarpentries.svg)"
+  },
+  {
+    "objectID": "index.html#symposium-for-data-science-and-statistics",
+    "href": "index.html#symposium-for-data-science-and-statistics",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Symposium for Data Science and Statistics",
+    "text": "Symposium for Data Science and Statistics"
+  },
+  {
+    "objectID": "index.html#ropensci",
+    "href": "index.html#ropensci",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "rOpenSci",
+    "text": "rOpenSci"
+  },
+  {
+    "objectID": "index.html#my-promise",
+    "href": "index.html#my-promise",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "My Promise",
+    "text": "My Promise\n\nFor a student organization at Pitt\nI will give a 2 hour workshop for free on either\n\ntidyverse\nShiny"
+  },
+  {
+    "objectID": "index.html#collaboration-is-fun-and-a-vital-skill",
+    "href": "index.html#collaboration-is-fun-and-a-vital-skill",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Collaboration is Fun and a Vital Skill",
+    "text": "Collaboration is Fun and a Vital Skill\n\nAcademic Consortia\nIndustry\n\n\n‘Yes, and…’ is the foundation of collaboration"
+  },
+  {
+    "objectID": "index.html#cascadia-r-conf-empower-others",
+    "href": "index.html#cascadia-r-conf-empower-others",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Cascadia R Conf: Empower Others",
+    "text": "Cascadia R Conf: Empower Others\n\n2023"
+  },
+  {
+    "objectID": "index.html#data-analytics",
+    "href": "index.html#data-analytics",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Data Analytics",
+    "text": "Data Analytics"
+  },
+  {
+    "objectID": "index.html#r-bootcamp",
+    "href": "index.html#r-bootcamp",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "R-Bootcamp",
+    "text": "R-Bootcamp"
+  },
+  {
+    "objectID": "index.html#ready-for-r",
+    "href": "index.html#ready-for-r",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Ready for R",
+    "text": "Ready for R\n\n\n\nFree for all!\nLeverage Posit Cloud (free)\nVideos\nNotebooks"
+  },
+  {
+    "objectID": "index.html#uk-biobank-rap-community",
+    "href": "index.html#uk-biobank-rap-community",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "UK Biobank RAP community",
+    "text": "UK Biobank RAP community\n\nGenomics on the cloud\nPlan learning paths"
+  },
+  {
+    "objectID": "index.html#you-cant-please-all-6-of-your-bosses",
+    "href": "index.html#you-cant-please-all-6-of-your-bosses",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "You Can’t Please All 6 of Your Bosses",
+    "text": "You Can’t Please All 6 of Your Bosses"
+  },
+  {
+    "objectID": "index.html#managing-up",
+    "href": "index.html#managing-up",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Managing Up",
+    "text": "Managing Up\n\nCommunicating with your manager what you need\nEducating them about what they’re curious about"
+  },
+  {
+    "objectID": "index.html#you-are-a-limited-resource",
+    "href": "index.html#you-are-a-limited-resource",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "You are a Limited Resource",
+    "text": "You are a Limited Resource"
+  },
+  {
+    "objectID": "index.html#managing-burnout",
+    "href": "index.html#managing-burnout",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Managing Burnout",
+    "text": "Managing Burnout\n\nBurnout is a systemic bug\nNeeds to be managed at multiple levels\n\n\nAsking for Help to Get Better"
+  },
+  {
+    "objectID": "index.html#look-for-alternatives",
+    "href": "index.html#look-for-alternatives",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Look for Alternatives",
+    "text": "Look for Alternatives"
+  },
+  {
+    "objectID": "index.html#being-confused-is-part-of-my-job",
+    "href": "index.html#being-confused-is-part-of-my-job",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Being confused is part of my job",
+    "text": "Being confused is part of my job\n\nAsking Questions\n\nProduct\nCustomers"
+  },
+  {
+    "objectID": "index.html#social-media-is-a-double-edged-sword",
+    "href": "index.html#social-media-is-a-double-edged-sword",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Social Media is a Double-Edged Sword",
+    "text": "Social Media is a Double-Edged Sword\n\nEspecially for BIPOCs\nYour mental health matters\nBe aware and use blocking tools"
+  },
+  {
+    "objectID": "index.html#slackdiscords",
+    "href": "index.html#slackdiscords",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Slack/Discords",
+    "text": "Slack/Discords\n\nR for Data Science\nData Visualization Society"
+  },
+  {
+    "objectID": "index.html#is-twitter-worth-it-anymore",
+    "href": "index.html#is-twitter-worth-it-anymore",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Is Twitter Worth it Anymore?",
+    "text": "Is Twitter Worth it Anymore?"
+  },
+  {
+    "objectID": "index.html#thank-you-to-everyone",
+    "href": "index.html#thank-you-to-everyone",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Thank You To Everyone",
+    "text": "Thank You To Everyone\n\n\n\nAaron Coyner\nAaron Makabuya\nAlbert Kim\nAlex Michel\nAlison Hill\nAllison Horst\nAmelia Abreu\nAnastazie Sedlakova\nAndrew Heiss\nAngela Li\nAntoinette Foster\nAriel Muldoon\nAsia Mitchell\n\n\n\nBen Busby\nBeth Duckles\nBob Rudis\nBrendan Cullen\nBrittany Barker\nCaitlin Hudon\nCass Wilkinson Saldana\nChai Fungtammasan\nCharles Grey\nCharlotte Wickham\nChelsea Parlett-Perlitti\nChester Ismay\nConnor Smith\nDaniel Chen\n\n\n\nDaniel Sjoberg\nDaniel Anderson\nDaniela Sadieri\nDanielle Robinson\nDanielle Navarro\nDar’ya Pozhidayeva\nDavid Keyes\nDavid Dorr\nElin Waring\nEllis Hughes\nEmile Latour\nEmma Rand\nEric Earl\nEric Leung\nEric Feczko\n\n\n\nGabriela de Quieroz\nGarrick Aden-Buie\nGina Reynolds\nGreg Wilson\nHao Ye\nHeather Nolis\nIan Lyttle\nInes Montani\nIsabella Ghement\nJackie Wirz\nJacqueline Nolis\nJames Eddy"
+  },
+  {
+    "objectID": "index.html#thank-you-page-2",
+    "href": "index.html#thank-you-page-2",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Thank You (page 2)",
+    "text": "Thank You (page 2)\n\n\n\nJason Williams\nJD Long\nJennifer Thompson\nJeremy Allen\nJeroen Janssens\nJesse Mostipak\nJessica Minnier\nJohn David Smith\nJon Harmon\nJonah Duckles\nJP Gourdine\nJulia Stewart-Lowndes\nJulia Silge\n\n\n\nKara Woo\nKari Jordan\nKarl Broman\nKate Hertweck\nKelly Bodwin\nKevin Watanabe-Smith\nKristi Holmes\nKristin Bott\nKristine Alpi\nLaura Ación\nLeo Collado-Torres\n\n\n\nLetisha Wyatt\nLilly Winfree\nLisa Karstens\nLucille Moore\nMackenzie Gray\nMackenzie Kesler\nMara Averick\nMara Alexeev\nMarijane White\nMark Klick\nMarley Buchman\nMaya Gans\n\n\n\nMeike Niederhausen\nMelissa Haendel\nMiles Ott\nMine Dogucu\nMine Çetinkaya-Rundel\nMonica Gerber\nMouna Belaid\nNate Lazar\nNick Wong\nNick Tierney\nOndrej Klempir\nOscar Baruffa\nPeter Higgins\nPhillip Robinson\nPierrette Lo\nRandy Au\nRebecca Barter\nRobin Champieux\n\n\n\nRory Blucher\nRyan Swan\nRyo Nakagawara\nSami Friedrich\nSarah Florig\nScott Chamberlain\nShannon McWeeney\nStefanie Butland\nStephan Kadauke\nStephanie Hazlitt\nTom Mock\nTracy Teal\nTravis Gerke\nTuan Nguyen\nYanina Saibene\n\n\n\n\n\nhttps://laderast.github.io/pitt_keynote"
+  },
+  {
+    "objectID": "index.html#trying-to-get-better",
+    "href": "index.html#trying-to-get-better",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Trying to get Better",
+    "text": "Trying to get Better\n\nValues are your key to overload and burnout\nThey help you decide what to work on\nThey help you set boundaries"
+  },
+  {
+    "objectID": "index.html#my-values-1",
+    "href": "index.html#my-values-1",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "My Values",
+    "text": "My Values\n\nCuriosity\nCompassion (including Self and others)"
+  },
+  {
+    "objectID": "index.html#give-yourself-permission-to-learn",
+    "href": "index.html#give-yourself-permission-to-learn",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Give Yourself Permission to learn",
+    "text": "Give Yourself Permission to learn\n\nData Science is Hard\nBe gentle and compassionate with yourself\nIt’s ok to immediately not get it\nGive yourself five minutes"
+  },
+  {
+    "objectID": "index.html#learning-is-hard",
+    "href": "index.html#learning-is-hard",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Learning is Hard",
+    "text": "Learning is Hard\n\nHaving the courage to learn (You)\nFeeling Safe Enough to Try (Environment)"
+  },
+  {
+    "objectID": "index.html#asking-questions-takes-a-community",
+    "href": "index.html#asking-questions-takes-a-community",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Asking questions takes a community",
+    "text": "Asking questions takes a community\n\nAsking questions is taking care of your cohort\nEveryone has the same questions as you"
+  },
+  {
+    "objectID": "index.html#coaching-instructors",
+    "href": "index.html#coaching-instructors",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Coaching Instructors",
+    "text": "Coaching Instructors"
+  },
+  {
+    "objectID": "index.html#cognitive-load-theory",
+    "href": "index.html#cognitive-load-theory",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Cognitive Load Theory",
+    "text": "Cognitive Load Theory"
+  },
+  {
+    "objectID": "index.html#deprogram-your-old-tapes",
+    "href": "index.html#deprogram-your-old-tapes",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Deprogram Your Old Tapes",
+    "text": "Deprogram Your Old Tapes\n\nI’m going to yell at you so you will remember what I am saying. - A Terrible Instructor"
+  },
+  {
+    "objectID": "index.html#embrace-life-long-learning",
+    "href": "index.html#embrace-life-long-learning",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Embrace Life Long Learning",
+    "text": "Embrace Life Long Learning"
+  },
+  {
+    "objectID": "index.html#be-safe-in-the-face-of-double-standards",
+    "href": "index.html#be-safe-in-the-face-of-double-standards",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Be Safe in the Face of Double Standards",
+    "text": "Be Safe in the Face of Double Standards\n\n\nhttps://laderast.github.io/pitt_keynote"
+  },
+  {
+    "objectID": "index.html#learners-as-the-best-teachers",
+    "href": "index.html#learners-as-the-best-teachers",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Learners as the best teachers",
+    "text": "Learners as the best teachers\n\n\n\nYou remember how hard it is\nYou just need to be 1 week ahead\nAnd given some coaching/pedagogy"
+  },
+  {
+    "objectID": "index.html#testimony",
+    "href": "index.html#testimony",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Testimony",
+    "text": "Testimony\n\nHaving [you] talk over the content providing examples and also answering student related questions was really helpful to see how some queries I had, others were having, which you explained, sometimes even providing more than one solution. Thanks very much. I have developed a passion for R."
+  },
+  {
+    "objectID": "index.html#the-best-teachers",
+    "href": "index.html#the-best-teachers",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "The best teachers",
+    "text": "The best teachers\n\n {.fragment width=600}  {.fragment width=600}  {.fragment width=600}  {.fragment width=600}"
+  },
+  {
+    "objectID": "index.html#tl-dr",
+    "href": "index.html#tl-dr",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "TL; DR",
+    "text": "TL; DR\n\nYou all are smart and brilliant people\nDon’t beat yourself up while learning\nFind your crew who you can learn with safely\nWhen possible, make things public"
+  },
+  {
+    "objectID": "index.html#compassion-in-teaching",
+    "href": "index.html#compassion-in-teaching",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Compassion in Teaching",
+    "text": "Compassion in Teaching\n\nPsychological Safety for All\nUsing Cognitive Science to Make Training Stick"
+  },
+  {
+    "objectID": "index.html#learning-self-talk-from-students",
+    "href": "index.html#learning-self-talk-from-students",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Learning Self-Talk from Students",
+    "text": "Learning Self-Talk from Students\n\nIt will be hard to learn, but so much fun and worth it.\n\n\nDedicate couple hours for practice a day"
+  },
+  {
+    "objectID": "index.html#learning-self-talk",
+    "href": "index.html#learning-self-talk",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "Learning Self-Talk",
+    "text": "Learning Self-Talk\n\nIt’s going to be okay, it’s really overwhelming right now but Ted is patient and thorough.\n\n\nIt’s a good thing that you’re looking at multiple sources of information about R (i.e. a brief Code Academy stint, the KCRB R4DS group, R Bootcamp links), it will just serve to solidify the topics that get covered.\n\n\nDon’t forget to Google, remember to ask questions."
+  },
+  {
+    "objectID": "index.html#this-is-what-it-takes",
+    "href": "index.html#this-is-what-it-takes",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "This is What it Takes",
+    "text": "This is What it Takes"
+  }
+]
