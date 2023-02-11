@@ -1,48 +1,487 @@
 ---
-title: "Psychological Safety and Self Compassion in Learning"
+title: The Value of Compassion in Learning Data Science
+subtitle: University of Pittsburgh Love Data Week
 author: Ted Laderas
-date: 1/12/2023
+date: 02/13/2023
 format: 
   revealjs:
+    preview-links: true
     standalone: true
     theme: night
     progress: true
-    footer: <https://laderast.github.io/qmd_rmd/>
+    footer: <https://laderast.github.io/pitt_keynote>
 incremental: false
 highlight-style: a11y
 ---
 
-## Bio
+## Bio {.smaller}
 
+:::: {.columns}
+::: {.column width="35%"}
+- Former academic that loves teaching
+- Data Scientist/Bioinformatician 20+ years
+- Not afraid of Clinical Data
+- Bioinformatics Trainer at DNAnexus
+- Psychological Safety for Everyone
+:::
+
+::: {.column width="35%"}
+- Ready for R
+- Data Analytics
+- Cloud for HPC Users
+- Gradual Introduction to Shiny
+- OHSU BioData Club
+- Cascadia-R
+- cvdRiskData
+:::
+
+::: {.column width="30%"}
+![](ted.jpg)
+:::
+::::
 
 
 
 ## TL;DR
 
 - You all are smart and brilliant people
-- Don't beat yourself up while learning
+- Don’t beat yourself up while learning
 - Find your crew who you can learn with safely
 - When possible, make things public
 
-# You are all Smart and Brilliant People
+## My Advice to Grow as a Data Scientist
 
-## Learning is Hard
+1. Have Values
+2. Meet people 
+3. Learn Things Together
+4. Build Things Together
+5. Take Care of Yourself
+6. Share Things
 
-- Having the courage to learn (You)
-- Feeling Safe Enough to Try (Environment)
+# 1.  Have Values
 
-# Don't beat yourself up while learning
+## Why Values?
 
-## Deprogram Your Old Tapes
+- Values help you say yes
+- Values Help you say no 
 
-> I'm going to yell at you so you will remember what I am saying. - A Terrible Instructor
+## My Values
 
-## Embrace Life Long Learning
+- Curiosity (about learning and others)
+- Compassion (for myself and others)
+
+## There is more than one path
+
+- Question the PI model
+- Collaboration is the most important
+
+## Be Compassionate and Gentle With Yourself
+
+- Data Science is Hard
+- Don’t Replay Negative Tapes
+- Find people to Learn With
+
+## The 5 minute rule for learning
+
+- If something doesn't make sense, take a walk or a break and come back to it.
+
+## It's Dangerous to Learn Alone
+
+::::{.columns}
+:::{.column}
+- Use Social Learning to learn faster 
+- Having a group makes things easier
+:::
+:::{.column}
+![](dangerous.png)
+:::
+::::
+# 2. Meet People
+
+## Who Should You Meet?
+
+- Potential Collaborators
+- Potential Employers
+- "Weak Ties"
+
+## An Introvert’s Guide to Networking
+
+- Networking is not about promoting yourself
+- It’s about being curious about other people
+- Finding common ground and seeing if you want to work with them
+
+[How to Network in a Non-slimy Way](https://laderast.github.io/articles/2021-09-13-how-to-network-in-a-non-slimy-way/how-to-network-in-a-non-slimy-way.html)
+
+## Be Curious About Other People
+
+- Practice Informational Interviewing
+- Don't overthink your questions
+- Be genuinely interested in what people do
+- Don't limit yourself to your field
+
+## Do or Attend Lightning Talks!
+
+- Lightning talk: 5-10 minute invitation to chat
+- Best way to advertise what you're interested in
+- Best way to meet people with your same interests
+
+## Volunteer at Conferences
+
+:::: {.columns}
+::: {.column}
+- Low-key way to meet people
+- Working on things together is super helpful
+- Example: TA for Building Tidy Tools Workshop
+:::
+:::{.column}
+![Building Tidy Tools - Thanks Ian and Emma!](ussie1.jpeg)
+:::
+::::
+
+## Should You Collaborate?
 
 
-# Finding your crew
+
+# 3. Learn Things Together
+
+## Start or Join a Group!
+
+- Find your like minded peers
+- Help each other learn
+- Find groups that have Codes of Conduct
+
+## Why are Codes of Conduct Important?
+
+- Establish the tone for the group
+- States unacceptable behavior
+
+## Tidy Tuesday
+
+::::{.columns}
+:::{.column width="40%"}
+- Weekly Dataset
+- Learn from other's code
+- Share your visualizations/code
+:::
+
+:::{.column width="60%"}
+![Unique Animal Crossing Personalities](animal_crossing.png)
+:::
+::::
+
+## R for Data Science
+
+## Data Visualization Society
 
 
-# Making Things Public
 
-## Be Safe in the Face of Double Standards
+## OHSU BioData Club
+
+::::{.columns}
+:::{.column width="50%"}
+- Everyone is Equal (PhD, Postdoc, Faculty)
+- Working through problems together
+:::
+:::{.column width="50%"}
+![](bdc-small.png)
+:::
+::::
+
+##
+
+- Learners are the best teachers
+  - You just need to be 1 week ahead...
+  - And given some coaching/pedagogy...
+
+## What we taught each other
+
+
+
+## CSVConf
+
+- 
+
+## The Carpentries
+
+- Teaching Certification
+
+## Symposium for Data Science and Statistics
+
+- 
+
+## rOpenSci
+
+
+
+
+## My Promise
+
+- For a student organization,
+- I will give a 2 hour workshop for free on either
+  - tidyverse
+  - Shiny
+
+# 4. Build Things Together
+
+## Collaboration is Fun and a Vital Skill
+
+- Academic Consortia
+- Industry
+
+['Yes, and...' is the foundation of collaboration](https://laderast.github.io/posts/2022-02-27-yes-and-is-the-foundation-of-collaboration/)
+
+## Cascadia R Conf: Empower Others
+
+![2023](logo_2023.png)
+
+## Data Analytics
+
+## R-Bootcamp
+
+![](rbootcamp.png)
+
+## Ready for R
+
+::::{.columns}
+:::{.column}
+- Free for all!
+- Leverage Posit Cloud
+- Videos
+- Notebooks
+:::
+
+:::{.column}
+![](ready4r.png)
+:::
+::::
+
+>  Having [you] talk over the content providing examples and also answering student related questions was really helpful to see how some queries I had, others were having, which you explained, sometimes even providing more than one solution. Thanks very much. I have developed a passion for R.
+
+
+
+## UK Biobank RAP community
+
+- Genomics on the cloud
+- Plan learning paths
+- 
+
+
+# 5. Take Care of Yourself
+
+
+
+## You Can’t Please All 6 of Your Bosses
+
+-
+
+
+## Managing Up
+
+- Communicating with your manager what you need
+- Educating them about what they're curious about
+- 
+
+## You are a Limited Resource
+
+
+## Managing Burnout
+
+- Burnout is a systemic bug
+- Needs to be managed at multiple levels
+- 
+
+[Asking for Help to Get Better](https://laderast.github.io/posts/2018-06-25-asking-for-help-to-get-better/)
+
+
+
+## Look for Alternatives
+
+- 
+
+
+## Being confused is part of my job
+
+- Asking Questions
+  - Product
+  - Customers
+
+# 6. Share Things
+
+## Social Media is a Double-Edged Sword
+
+- Especially for BIPOCs
+- Your mental health matters
+- Be aware and use blocking tools
+
+## Slack/Discords
+
+- R for Data Science
+- Data Visualization Society
+
+## Is Twitter Worth it Anymore?
+
+- 
+
+## 
+
+# Expressing my Gratitude
+
+## Thank You To Everyone {.smaller .scrollable}
+
+:::: {.columns}
+::: {.column width="25%"}
+- Aaron	Coyner
+- Aaron Makabuya
+- Albert Kim
+- Alex Michel
+- Alison Hill
+- Allison	Horst
+- Amelia Abreu
+- Anastazie	Sedlakova
+- Andrew Heiss
+- Angela Li
+- Antoinette Foster
+- Ariel Muldoon
+- Asia Mitchell
+:::
+
+::: {.column width="25%"}
+- Ben	Busby
+- Beth Duckles
+- Bob	Rudis
+- Brendan	Cullen
+- Brittany Barker
+- Caitlin	Hudon
+- Cass Wilkinson Saldana
+- Chai Fungtammasan
+- Charles	Grey
+- Charlotte	Wickham
+- Chelsea Parlett-Perlitti
+- Chester	Ismay
+- Connor Smith
+- Daniel Chen
+:::
+
+:::{.column width="25%"}
+- Daniel Sjoberg
+- Daniel Anderson
+- Daniela	Sadieri
+- Danielle Robinson
+- Danielle Navarro
+- Dar’ya Pozhidayeva
+- David	Keyes
+- David	Dorr
+- Elin Waring
+- Ellis	Hughes
+- Emile	Latour
+- Emma Rand
+- Eric Earl
+- Eric Leung
+- Eric Feczko
+:::
+
+::: {.column width="25%"}
+- Gabriela de Quieroz
+- Garrick	Aden-Buie
+- Gina Reynolds
+- Greg Wilson
+- Hao	Ye
+- Heather	Nolis
+- Ian	Lyttle
+- Ines Montani
+- Isabella Ghement
+- Jackie Wirz
+- Jacqueline Nolis
+- James	Eddy
+:::
+::::
+
+## Thank You (page 2) {.smaller .scrollable}
+
+:::: {.columns}
+:::{.column width="25%"}
+- Jason	Williams
+- JD Long
+- Jennifer Thompson
+- Jeremy Allen
+- Jeroen Janssens
+- Jesse	Mostipak
+- Jessica	Minnier
+- John David Smith
+- Jon	Harmon
+- Jonah	Duckles
+- JP Gourdine
+- Julia	Stewart-Lowndes
+- Julia	Silge
+:::
+
+:::{.column width="25%"}
+- Kara Woo
+- Kari Jordan
+- Karl Broman
+- Kate Hertweck
+- Kelly	Bodwin
+- Kevin	Watanabe-Smith
+- Kristi Holmes
+- Kristin	Bott
+- Kristine Alpi
+- Laura	Ación
+- Leo	Collado-Torres
+:::
+
+:::{.column width="25%"}
+- Letisha	Wyatt
+- Lilly	Winfree
+- Lisa Karstens
+- Lucille	Moore
+- Mackenzie	Gray
+- Mackenzie	Kesler
+- Mara Averick
+- Mara Alexeev
+- Marijane White
+- Mark Klick
+- Marley Buchman
+- Maya Gans
+:::
+
+::: {.column width="25%"}
+- Meike	Niederhausen
+- Melissa	Haendel
+- Miles	Ott
+- Mine Dogucu
+- Mine Çetinkaya-Rundel	
+- Monica Gerber
+- Mouna	Belaid
+- Nate Lazar
+- Nick Wong
+- Nick Tierney
+- Ondrej Klempir
+- Oscar	Baruffa
+- Peter	Higgins
+- Phillip	Robinson
+- Pierrette	Lo
+- Randy	Au
+- Rebecca	Barter
+- Robin	Champieux
+:::
+
+::: {.column width="25%"}
+- Rory Blucher
+- Ryan Swan
+- Ryo	Nakagawara
+- Sami Friedrich
+- Sarah	Florig
+- Scott	Chamberlain
+- Shannon	McWeeney
+- Stefanie Butland
+- Stephan	Kadauke
+- Stephanie	Hazlitt
+- Tom	Mock
+- Tracy	Teal
+- Travis Gerke
+- Tuan Nguyen
+- Yanina Saibene
+:::
+::::
+
+
