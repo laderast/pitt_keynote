@@ -30,6 +30,70 @@
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
     }
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #767676;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #767676;  padding-left: 4px; }
+    div.sourceCode
+      { color: #545454; background-color: #fefefe; }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span { color: #545454; } /* Normal */
+    code span.al { color: #7928a1; } /* Alert */
+    code span.an { color: #696969; } /* Annotation */
+    code span.at { color: #a55a00; } /* Attribute */
+    code span.bn { color: #7928a1; } /* BaseN */
+    code span.bu { } /* BuiltIn */
+    code span.cf { color: #d91e18; } /* ControlFlow */
+    code span.ch { color: #008000; } /* Char */
+    code span.cn { color: #d91e18; } /* Constant */
+    code span.co { color: #696969; } /* Comment */
+    code span.cv { color: #696969; font-style: italic; } /* CommentVar */
+    code span.do { color: #696969; font-style: italic; } /* Documentation */
+    code span.dt { color: #7928a1; } /* DataType */
+    code span.dv { color: #7928a1; } /* DecVal */
+    code span.er { color: #7928a1; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #a55a00; } /* Float */
+    code span.fu { color: #06287e; } /* Function */
+    code span.im { } /* Import */
+    code span.in { color: #696969; } /* Information */
+    code span.kw { color: #d91e18; } /* Keyword */
+    code span.op { color: #00769e; } /* Operator */
+    code span.ot { color: #d91e18; } /* Other */
+    code span.pp { color: #7928a1; } /* Preprocessor */
+    code span.sc { color: #00769e; } /* SpecialChar */
+    code span.ss { color: #008000; } /* SpecialString */
+    code span.st { color: #008000; } /* String */
+    code span.va { color: #a55a00; } /* Variable */
+    code span.vs { color: #008000; } /* VerbatimString */
+    code span.wa { color: #696969; font-style: italic; } /* Warning */
   </style>
   <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto.css" id="theme">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
@@ -672,13 +736,6 @@ Ted Laderas
 <section id="ropensci" class="slide level2">
 <h2>rOpenSci</h2>
 </section>
-<section id="compassion-in-teaching" class="slide level2">
-<h2>Compassion in Teaching</h2>
-<ul>
-<li><a href="https://laderast.github.io/psych_safety/#1">Psychological Safety for All</a></li>
-<li><a href="https://laderast.github.io/talks/2022-10-7-using-cognitive-science/">Using Cognitive Science to Make Training Stick</a></li>
-</ul>
-</section>
 <section id="my-promise" class="slide level2">
 <h2>My Promise</h2>
 <ul>
@@ -705,6 +762,13 @@ Ted Laderas
 <p><a href="https://laderast.github.io/posts/2022-02-27-yes-and-is-the-foundation-of-collaboration/">‘Yes, and…’ is the foundation of collaboration</a></p>
 </div>
 </section>
+<section id="compassion-in-teaching" class="slide level2">
+<h2>Compassion in Teaching</h2>
+<ul>
+<li><a href="https://laderast.github.io/psych_safety/#1">Psychological Safety for All</a></li>
+<li><a href="https://laderast.github.io/talks/2022-10-7-using-cognitive-science/">Using Cognitive Science to Make Training Stick</a></li>
+</ul>
+</section>
 <section id="cascadia-r-conf-empower-others" class="slide level2">
 <h2>Cascadia R Conf: Empower Others</h2>
 
@@ -730,9 +794,6 @@ Ted Laderas
 </section>
 <section id="testimony" class="slide level2">
 <h2>Testimony</h2>
-<blockquote>
-<p>Having [you] talk over the content providing examples and also answering student related questions was really helpful to see how some queries I had, others were having, which you explained, sometimes even providing more than one solution. Thanks very much. I have developed a passion for R.</p>
-</blockquote>
 </section>
 <section id="uk-biobank-rap-community" class="slide level2">
 <h2>UK Biobank RAP community</h2>
@@ -747,22 +808,27 @@ Ted Laderas
 <h1>5. Take Care of Yourself</h1>
 
 </section>
-<section id="you-cant-please-all-6-of-your-bosses" class="slide level2">
-<h2>You Can’t Please All 6 of Your Bosses</h2>
-<ul>
-<li></li>
-</ul>
-</section>
 <section id="managing-up" class="slide level2">
 <h2>Managing Up</h2>
 <ul>
 <li>Communicating with your manager what you need</li>
 <li>Educating them about what they’re curious about</li>
-<li></li>
+</ul>
+</section>
+<section id="you-cant-please-all-6-of-your-bosses" class="slide level2">
+<h2>You Can’t Please All 6 of Your Bosses</h2>
+<ul>
+<li>During COVID</li>
+<li>I put together 5 new classes in 1.5 years</li>
+<li>Different Departments</li>
+<li>I needed something new</li>
 </ul>
 </section>
 <section id="you-are-a-limited-resource" class="slide level2">
 <h2>You are a Limited Resource</h2>
+<ul>
+<li>Use your values to decide whether something is worth focusing on</li>
+</ul>
 </section>
 <section id="managing-burnout" class="slide level2">
 <h2>Managing Burnout</h2>
@@ -794,12 +860,29 @@ Ted Laderas
 <h1>6. Share Things</h1>
 
 </section>
-<section id="social-media-is-a-double-edged-sword" class="slide level2">
-<h2>Social Media is a Double-Edged Sword</h2>
+<section id="the-unreasonable-effectiveness-of-public-work" class="slide level2">
+<h2>The Unreasonable Effectiveness of Public Work</h2>
+
+<img data-src="public.png" class="r-stretch"><ul>
+<li><a href="https://www.dropbox.com/s/jk7216yr30ztpdp/DavidRobinson-RStudio-2019-old.pdf?dl=0">RStudio Conf 2019 Keynote</a></li>
+</ul>
+</section>
+<section id="yes-but" class="slide level2">
+<h2>Yes, but…</h2>
+<ul>
+<li>Social Media is a Double-Edged Sword
 <ul>
 <li>Especially for BIPOCs</li>
 <li>Your mental health matters</li>
-<li>Be aware and use blocking tools</li>
+<li>Be aware and use <a href="https://www.blockpartyapp.com/">blocking tools</a></li>
+</ul></li>
+</ul>
+</section>
+<section id="low-key-share-your-work" class="slide level2">
+<h2>Low-key Share Your Work</h2>
+<ul>
+<li>Tidy Tuesday</li>
+<li>Data Science Portfolio</li>
 </ul>
 </section>
 <section id="slackdiscords" class="slide level2">
@@ -812,177 +895,29 @@ Ted Laderas
 <section id="is-twitter-worth-it-anymore" class="slide level2">
 <h2>Is Twitter Worth it Anymore?</h2>
 <ul>
-<li></li>
+<li>With Caveats (blocking)</li>
 </ul>
-</section>
-<section id="section" class="slide level2">
-<h2></h2>
 </section></section>
 <section>
 <section id="expressing-my-gratitude" class="title-slide slide level1 center">
 <h1>Expressing my Gratitude</h1>
 
 </section>
-<section id="thank-you-to-everyone" class="slide level2 smaller scrollable">
-<h2>Thank You To Everyone</h2>
-<div class="columns">
-<div class="column" style="width:25%;">
-<ul>
-<li>Aaron Coyner</li>
-<li>Aaron Makabuya</li>
-<li>Albert Kim</li>
-<li>Alex Michel</li>
-<li>Alison Hill</li>
-<li>Allison Horst</li>
-<li>Amelia Abreu</li>
-<li>Anastazie Sedlakova</li>
-<li>Andrew Heiss</li>
-<li>Angela Li</li>
-<li>Antoinette Foster</li>
-<li>Ariel Muldoon</li>
-<li>Asia Mitchell</li>
-</ul>
-</div><div class="column" style="width:25%;">
-<ul>
-<li>Ben Busby</li>
-<li>Beth Duckles</li>
-<li>Bob Rudis</li>
-<li>Brendan Cullen</li>
-<li>Brittany Barker</li>
-<li>Caitlin Hudon</li>
-<li>Cass Wilkinson Saldana</li>
-<li>Chai Fungtammasan</li>
-<li>Charles Grey</li>
-<li>Charlotte Wickham</li>
-<li>Chelsea Parlett-Perlitti</li>
-<li>Chester Ismay</li>
-<li>Connor Smith</li>
-<li>Daniel Chen</li>
-</ul>
-</div><div class="column" style="width:25%;">
-<ul>
-<li>Daniel Sjoberg</li>
-<li>Daniel Anderson</li>
-<li>Daniela Sadieri</li>
-<li>Danielle Robinson</li>
-<li>Danielle Navarro</li>
-<li>Dar’ya Pozhidayeva</li>
-<li>David Keyes</li>
-<li>David Dorr</li>
-<li>Elin Waring</li>
-<li>Ellis Hughes</li>
-<li>Emile Latour</li>
-<li>Emma Rand</li>
-<li>Eric Earl</li>
-<li>Eric Leung</li>
-<li>Eric Feczko</li>
-</ul>
-</div><div class="column" style="width:25%;">
-<ul>
-<li>Gabriela de Quieroz</li>
-<li>Garrick Aden-Buie</li>
-<li>Gina Reynolds</li>
-<li>Greg Wilson</li>
-<li>Hao Ye</li>
-<li>Heather Nolis</li>
-<li>Ian Lyttle</li>
-<li>Ines Montani</li>
-<li>Isabella Ghement</li>
-<li>Jackie Wirz</li>
-<li>Jacqueline Nolis</li>
-<li>James Eddy</li>
-</ul>
-</div>
-</div>
-</section>
-<section id="thank-you-page-2" class="slide level2 smaller scrollable">
-<h2>Thank You (page 2)</h2>
-<div class="columns">
-<div class="column" style="width:25%;">
-<ul>
-<li>Jason Williams</li>
-<li>JD Long</li>
-<li>Jennifer Thompson</li>
-<li>Jeremy Allen</li>
-<li>Jeroen Janssens</li>
-<li>Jesse Mostipak</li>
-<li>Jessica Minnier</li>
-<li>John David Smith</li>
-<li>Jon Harmon</li>
-<li>Jonah Duckles</li>
-<li>JP Gourdine</li>
-<li>Julia Stewart-Lowndes</li>
-<li>Julia Silge</li>
-</ul>
-</div><div class="column" style="width:25%;">
-<ul>
-<li>Kara Woo</li>
-<li>Kari Jordan</li>
-<li>Karl Broman</li>
-<li>Kate Hertweck</li>
-<li>Kelly Bodwin</li>
-<li>Kevin Watanabe-Smith</li>
-<li>Kristi Holmes</li>
-<li>Kristin Bott</li>
-<li>Kristine Alpi</li>
-<li>Laura Ación</li>
-<li>Leo Collado-Torres</li>
-</ul>
-</div><div class="column" style="width:25%;">
-<ul>
-<li>Letisha Wyatt</li>
-<li>Lilly Winfree</li>
-<li>Lisa Karstens</li>
-<li>Lucille Moore</li>
-<li>Mackenzie Gray</li>
-<li>Mackenzie Kesler</li>
-<li>Mara Averick</li>
-<li>Mara Alexeev</li>
-<li>Marijane White</li>
-<li>Mark Klick</li>
-<li>Marley Buchman</li>
-<li>Maya Gans</li>
-</ul>
-</div><div class="column" style="width:25%;">
-<ul>
-<li>Meike Niederhausen</li>
-<li>Melissa Haendel</li>
-<li>Miles Ott</li>
-<li>Mine Dogucu</li>
-<li>Mine Çetinkaya-Rundel</li>
-<li>Monica Gerber</li>
-<li>Mouna Belaid</li>
-<li>Nate Lazar</li>
-<li>Nick Wong</li>
-<li>Nick Tierney</li>
-<li>Ondrej Klempir</li>
-<li>Oscar Baruffa</li>
-<li>Peter Higgins</li>
-<li>Phillip Robinson</li>
-<li>Pierrette Lo</li>
-<li>Randy Au</li>
-<li>Rebecca Barter</li>
-<li>Robin Champieux</li>
-</ul>
-</div><div class="column" style="width:25%;">
-<ul>
-<li>Rory Blucher</li>
-<li>Ryan Swan</li>
-<li>Ryo Nakagawara</li>
-<li>Sami Friedrich</li>
-<li>Sarah Florig</li>
-<li>Scott Chamberlain</li>
-<li>Shannon McWeeney</li>
-<li>Stefanie Butland</li>
-<li>Stephan Kadauke</li>
-<li>Stephanie Hazlitt</li>
-<li>Tom Mock</li>
-<li>Tracy Teal</li>
-<li>Travis Gerke</li>
-<li>Tuan Nguyen</li>
-<li>Yanina Saibene</li>
-</ul>
-</div>
+<section id="thank-you-ggplot-version" class="slide level2">
+<h2>Thank You (ggplot version)</h2>
+
+<img data-src="index_files/figure-revealjs/unnamed-chunk-1-1.png" width="960" class="r-stretch"></section>
+<section id="gratitude-code" class="slide level2">
+<h2>Gratitude Code</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="fu">library</span>(tidyverse)</span>
+<span id="cb1-2"><a href="#cb1-2"></a>gratitude <span class="ot">&lt;-</span> readr<span class="sc">::</span><span class="fu">read_csv</span>(<span class="st">"gratitude.csv"</span>) <span class="sc">|&gt;</span> <span class="fu">arrange</span>(First)</span>
+<span id="cb1-3"><a href="#cb1-3"></a>col_num <span class="ot">&lt;-</span> <span class="fu">rep</span>(<span class="dv">1</span><span class="sc">:</span><span class="dv">6</span>, <span class="at">each=</span><span class="dv">21</span>)[<span class="dv">1</span><span class="sc">:</span><span class="fu">nrow</span>(gratitude)]</span>
+<span id="cb1-4"><a href="#cb1-4"></a>row_num <span class="ot">&lt;-</span> <span class="fu">rep</span>(<span class="fu">seq</span>(<span class="dv">1</span><span class="sc">:</span><span class="dv">21</span>), <span class="dv">6</span>)[<span class="dv">1</span><span class="sc">:</span><span class="fu">nrow</span>(gratitude)]</span>
+<span id="cb1-5"><a href="#cb1-5"></a>gratitude <span class="ot">&lt;-</span> gratitude <span class="sc">|&gt;</span> <span class="fu">mutate</span>(<span class="at">name=</span><span class="fu">paste</span>(First, Last), <span class="at">col_num =</span> col_num, <span class="at">row_num=</span><span class="sc">-</span>row_num) </span>
+<span id="cb1-6"><a href="#cb1-6"></a></span>
+<span id="cb1-7"><a href="#cb1-7"></a><span class="fu">ggplot</span>(gratitude) <span class="sc">+</span> <span class="fu">aes</span>(<span class="at">y=</span>row_num,<span class="at">x=</span>col_num, <span class="at">label =</span> <span class="fu">as.character</span>(name), <span class="at">check_overlap=</span><span class="cn">TRUE</span>, <span class="at">hjust=</span><span class="dv">0</span>) <span class="sc">+</span> <span class="fu">geom_text</span>() <span class="sc">+</span> <span class="fu">theme_minimal</span>() <span class="sc">+</span> <span class="fu">xlim</span>(<span class="dv">1</span>,<span class="dv">7</span>) <span class="sc">+</span></span>
+<span id="cb1-8"><a href="#cb1-8"></a>  <span class="fu">theme</span>(<span class="at">axis.text =</span> <span class="fu">element_blank</span>(), <span class="at">axis.title =</span> <span class="fu">element_blank</span>(), <span class="at">panel.background =</span> <span class="fu">element_blank</span>())</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 
 <div class="footer footer-default">
@@ -1200,6 +1135,44 @@ Ted Laderas
         ]
       });
     </script>
+    
+    <script>
+      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
+      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
+      // slide changes (different for each slide format).
+      (function () {
+        // dispatch for htmlwidgets
+        function fireSlideEnter() {
+          const event = window.document.createEvent("Event");
+          event.initEvent("slideenter", true, true);
+          window.document.dispatchEvent(event);
+        }
+
+        function fireSlideChanged(previousSlide, currentSlide) {
+          fireSlideEnter();
+
+          // dispatch for shiny
+          if (window.jQuery) {
+            if (previousSlide) {
+              window.jQuery(previousSlide).trigger("hidden");
+            }
+            if (currentSlide) {
+              window.jQuery(currentSlide).trigger("shown");
+            }
+          }
+        }
+
+        // hookup for slidy
+        if (window.w3c_slidy) {
+          window.w3c_slidy.add_observer(function (slide_num) {
+            // slide_num starts at position 1
+            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
+          });
+        }
+
+      })();
+    </script>
+
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {

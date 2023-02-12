@@ -14,9 +14,9 @@ Julia,Stewart-Lowndes
 Julia,Silge
 Daniela,Sadieri
 Danielle,Robinson
-Beth ,Duckles
+Beth,Duckles
 Daniel,Chen
-Alex ,Michel
+Alex,Michel
 Yanina,Saibene
 Charles,Grey
 Letisha,Wyatt
@@ -25,7 +25,7 @@ Mara,Alexeev
 Mackenzie,Grey
 Sarah,Florig
 Pierrette,Lo
-Dar’ya ,Pozhidayeva
+Dar’ya,Pozhidayeva
 Phillip,Robinson
 Lucille,Moore
 Robin,Champieux
@@ -87,7 +87,7 @@ Jon,Harmon
 Ines,Montani
 Marijane,White
 Oscar,Baruffa
-Jacqueline ,Nolis
+Jacqueline,Nolis
 Heather,Nolis
 Daniel,Sjoberg
 Gina,Reynolds
@@ -99,7 +99,7 @@ Travis,Gerke
 Peter,Higgins
 Meike,Niederhausen
 Kristi,Holmes
-Mine Çetinkaya-Rundel,
+Mine,Çetinkaya-Rundel
 Mine,Dogucu
 Jesse,Mostipak
 Amelia,Abreu
@@ -116,8 +116,11 @@ Eric,Feczko
 Stefanie,Butland
 Isabella,Ghement
 Jennifer,Thompson
-Nick ,Tierney
+Nick,Tierney
 Karl,Broman
 Antoinette,Foster
 Charlotte,Wickham
 Jackie,Wirz
+Hadley,Wickham
+Jenny,Bryan
+Beatriz,Milz
