@@ -172,7 +172,7 @@
     "href": "index.html#tidy-tuesday",
     "title": "The Value of Compassion in Learning Data Science",
     "section": "Tidy Tuesday",
-    "text": "Tidy Tuesday\n\n\n\nWeekly Dataset\nLearn from other’s code\nShare your visualizations/code\n\n\n\n\n\nUnique Animal Crossing Personalities"
+    "text": "Tidy Tuesday\n\n\n\nWeekly Dataset\nLearn from other’s code\nShare your visualizations/code\n\n#TidyTuesday #RStats\n\n\n\n\n\n\nUnique Animal Crossing Personalities\n\n\n\n\nhttps://github.com/rfordatascience/tidytuesday"
   },
   {
     "objectID": "index.html#r-for-data-science",
@@ -333,7 +333,7 @@
     "href": "index.html#is-twitter-worth-it-anymore",
     "title": "The Value of Compassion in Learning Data Science",
     "section": "Is Twitter Worth it Anymore?",
-    "text": "Is Twitter Worth it Anymore?\n\nYes, but…\nStill\nWith Caveats (blocking)"
+    "text": "Is Twitter Worth it Anymore?\n\n\n\nYes, but…\nWith Caveats (blocking)"
   },
   {
     "objectID": "index.html#thank-you-to-everyone",
@@ -368,7 +368,7 @@
     "href": "index.html#gratitude-code",
     "title": "The Value of Compassion in Learning Data Science",
     "section": "Gratitude Code",
-    "text": "Gratitude Code\n\nlibrary(tidyverse)\ngratitude <- readr::read_csv(\"gratitude.csv\") |> arrange(First)\ncol_num <- rep(1:6, each=21)[1:nrow(gratitude)]\nrow_num <- rep(seq(1:21), 6)[1:nrow(gratitude)]\ngratitude <- gratitude |> mutate(name=paste(First, Last), col_num = col_num, row_num=-row_num) \n\nggplot(gratitude) + aes(y=row_num,x=col_num, label = as.character(name), check_overlap=TRUE, hjust=0) + geom_text() + theme_minimal() + xlim(1,7) +\n  theme(axis.text = element_blank(), axis.title = element_blank(), panel.background = element_blank())"
+    "text": "Gratitude Code\n\nThanks to everyone for inspiring me and/or your chats!\n\n\nlibrary(tidyverse)\ngratitude <- readr::read_csv(\"gratitude.csv\") |> arrange(First)\ncol_num <- rep(1:6, each=21)[1:nrow(gratitude)]\nrow_num <- rep(seq(1:21), 6)[1:nrow(gratitude)]\ngratitude <- gratitude |> mutate(name=paste(First, Last), col_num = col_num, row_num=-row_num) \n\nggplot(gratitude) + aes(y=row_num,x=col_num, label = as.character(name), check_overlap=TRUE, hjust=0) + geom_text() + theme_minimal() + xlim(1,7) +\n  theme(axis.text = element_blank(), axis.title = element_blank(), panel.background = element_blank())"
   },
   {
     "objectID": "index.html#the-unreasonable-effectiveness-of-public-work",
@@ -509,5 +509,12 @@
     "title": "The Value of Compassion in Learning Data Science",
     "section": "My Rule for Collaboration",
     "text": "My Rule for Collaboration\nIf I meet you and we hit it off, we should work on something together."
+  },
+  {
+    "objectID": "index.html#my-advice-to-grow-as-a-data-scientist-1",
+    "href": "index.html#my-advice-to-grow-as-a-data-scientist-1",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "My Advice to Grow as a Data Scientist",
+    "text": "My Advice to Grow as a Data Scientist\n\nHave Values\nMeet people\nLearn Things Together\nBuild Things Together\nTake Care of Yourself\nShare Things in Public"
   }
 ]

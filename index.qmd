@@ -289,12 +289,15 @@ You need to find it for yourself
 - Weekly Dataset
 - Learn from other's code
 - Share your visualizations/code
+  - #TidyTuesday #RStats
 :::
 
 :::{.column width="60%"}
 ![[Unique Animal Crossing Personalities](https://laderast.github.io/articles/2020-05-05_animal-crossing/animal-crossing.html)](animal_crossing.png)
 :::
 ::::
+
+<https://github.com/rfordatascience/tidytuesday>
 
 ## R for Data Science Learning Community
 
@@ -499,10 +502,24 @@ If I meet you and we hit it off, we should work on something together.
 
 ## Is Twitter Worth it Anymore?
 
+::::{.columns}
+:::{.column}
 - Yes, but...
-- Still 
 - With Caveats (blocking)
+:::
 
+::::
+
+# Coming Back to the Beginning
+
+## My Advice to Grow as a Data Scientist
+
+1. Have Values
+2. Meet people 
+3. Learn Things Together
+4. Build Things Together
+5. Take Care of Yourself
+6. Share Things in Public
 
 
 # Expressing my Gratitude
@@ -525,6 +542,8 @@ ggplot(gratitude) + aes(y=row_num,x=col_num, label = as.character(name),
 ```
 
 ## Gratitude Code
+
+- Thanks to everyone for inspiring me and/or your chats!
 
 ```{r}
 #| echo: true
