@@ -10,7 +10,7 @@ format:
     theme: sky
     progress: true
     footer: <https://laderast.github.io/pitt_keynote>
-incremental: false
+incremental: true
 highlight-style: a11y
 ---
 
@@ -139,9 +139,7 @@ highlight-style: a11y
 - Fellow Learners!
 - Potential Collaborators
 - Potential Employers
-:::{.fragment}
-- "Weak Ties"
-:::
+- **"Weak Ties"**
 
 ## An Introvert’s Guide to Networking
 
@@ -274,9 +272,11 @@ You need to find it for yourself
 
 ## What did we learn?
 
+:::{.incremental}
 - It just takes a desire to learn
 - Coaching/Pedagogy is important
 - Faculty Sponsorship is Vital
+:::
 
 <https://biodata-club.github.io/materials>
 
@@ -296,9 +296,10 @@ You need to find it for yourself
 :::
 ::::
 
-## R for Data Science
+## R for Data Science Learning Community
 
 ![](r4ds.png)
+<https://rfordatasci.com>
 
 ## Data Visualization Society
 
@@ -309,11 +310,20 @@ You need to find it for yourself
 
 ![](csvconf.png)
 
+<https://csvconf.com/>
+
 ## The Carpentries
 
 ![](TheCarpentries.svg)
 
+<https://carpentries.org/>
+
 # 4. Build Things Together
+
+## Compassion in Teaching
+
+- [Psychological Safety for All](https://laderast.github.io/psych_safety/#1)
+- [Using Cognitive Science to Make Training Stick](https://laderast.github.io/talks/2022-10-7-using-cognitive-science/)
 
 ## Collaboration is Fun and a Vital Skill
 
@@ -326,17 +336,13 @@ You need to find it for yourself
 ['Yes, and...' is the foundation of collaboration](https://laderast.github.io/posts/2022-02-27-yes-and-is-the-foundation-of-collaboration/)
 :::
 
-## Compassion in Teaching
+## My Rule for Collaboration
 
-- [Psychological Safety for All](https://laderast.github.io/psych_safety/#1)
-- [Using Cognitive Science to Make Training Stick](https://laderast.github.io/talks/2022-10-7-using-cognitive-science/)
+If I meet you and we hit it off, we should work on something together.
 
 ## Cascadia R Conf: Empower Others
 
-::::{.columns}
-:::{column width="50%"}
-[![](logo_2023.png)](https://cascadiarconf.com)
-:::
+![](logo_2023.png)
 
 [Cascadia R 2023](https://cascadiarconf.com)
 
@@ -347,6 +353,7 @@ You need to find it for yourself
 ## R-Bootcamp
 
 ![](rbootcamp.png)
+<https://r-bootcamp.netlify.app>
 
 ## Ready for R
 
@@ -396,13 +403,12 @@ You need to find it for yourself
 - Communicating with your manager what you need
 - Educating them about what they're curious about
 
-
 ## You Can’t Please All 6 of Your Bosses
 
 :::{.incremental}
 - During COVID
-- I put together 5 new classes in 1.5 years for Different Departments
-- On 3 other grants (lots of other work)
+- I put together 5 new classes in 1.5 years for different departments
+- Also on 3 other grants (lots of other work)
 - I needed something new
 :::
 
@@ -429,7 +435,7 @@ You need to find it for yourself
 ## Look for Alternatives
 
 - Asking around
-  - Big group of people asking the same
+  - Cohort of people in my network
   - Comparing Notes
 - Weak Ties
   - Lead to DNAnexus

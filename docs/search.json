@@ -88,7 +88,7 @@
     "href": "index.html#who-should-you-meet",
     "title": "The Value of Compassion in Learning Data Science",
     "section": "Who Should You Meet?",
-    "text": "Who Should You Meet?\n\nFellow Learners!\nPotential Collaborators\nPotential Employers :::{.fragment}\n“Weak Ties” :::"
+    "text": "Who Should You Meet?\n\nFellow Learners!\nPotential Collaborators\nPotential Employers\n“Weak Ties”"
   },
   {
     "objectID": "index.html#an-introverts-guide-to-networking",
@@ -193,14 +193,14 @@
     "href": "index.html#csvconf",
     "title": "The Value of Compassion in Learning Data Science",
     "section": "CSVConf",
-    "text": "CSVConf"
+    "text": "CSVConf\n\nhttps://csvconf.com/"
   },
   {
     "objectID": "index.html#the-carpentries",
     "href": "index.html#the-carpentries",
     "title": "The Value of Compassion in Learning Data Science",
     "section": "The Carpentries",
-    "text": "The Carpentries"
+    "text": "The Carpentries\n\nhttps://carpentries.org/"
   },
   {
     "objectID": "index.html#symposium-for-data-science-and-statistics",
@@ -242,14 +242,14 @@
     "href": "index.html#cascadia-r-conf-empower-others",
     "title": "The Value of Compassion in Learning Data Science",
     "section": "Cascadia R Conf: Empower Others",
-    "text": "Cascadia R Conf: Empower Others\n\n:::{column width=“50%”} \n\nCascadia R 2023"
+    "text": "Cascadia R Conf: Empower Others\n\nCascadia R 2023"
   },
   {
     "objectID": "index.html#r-bootcamp",
     "href": "index.html#r-bootcamp",
     "title": "The Value of Compassion in Learning Data Science",
     "section": "R-Bootcamp",
-    "text": "R-Bootcamp"
+    "text": "R-Bootcamp\n https://r-bootcamp.netlify.app"
   },
   {
     "objectID": "index.html#ready-for-r",
@@ -277,7 +277,7 @@
     "href": "index.html#you-cant-please-all-6-of-your-bosses",
     "title": "The Value of Compassion in Learning Data Science",
     "section": "You Can’t Please All 6 of Your Bosses",
-    "text": "You Can’t Please All 6 of Your Bosses\n\n\nDuring COVID\nI put together 5 new classes in 1.5 years for Different Departments\nOn 3 other grants (lots of other work)\nI needed something new"
+    "text": "You Can’t Please All 6 of Your Bosses\n\n\nDuring COVID\nI put together 5 new classes in 1.5 years for different departments\nAlso on 3 other grants (lots of other work)\nI needed something new"
   },
   {
     "objectID": "index.html#managing-up",
@@ -305,7 +305,7 @@
     "href": "index.html#look-for-alternatives",
     "title": "The Value of Compassion in Learning Data Science",
     "section": "Look for Alternatives",
-    "text": "Look for Alternatives\n\nAsking around\n\nBig group of people asking the same\nComparing Notes\n\nWeak Ties\n\nLead to DNAnexus"
+    "text": "Look for Alternatives\n\nAsking around\n\nCohort of people in my network\nComparing Notes\n\nWeak Ties\n\nLead to DNAnexus"
   },
   {
     "objectID": "index.html#being-confused-is-part-of-my-job",
@@ -424,7 +424,7 @@
     "href": "index.html#what-did-we-learn",
     "title": "The Value of Compassion in Learning Data Science",
     "section": "What did we learn?",
-    "text": "What did we learn?\n\nIt just takes a desire to learn\nCoaching/Pedagogy is important\nFaculty Sponsorship is Vital\n\nhttps://biodata-club.github.io/materials"
+    "text": "What did we learn?\n\n\nIt just takes a desire to learn\nCoaching/Pedagogy is important\nFaculty Sponsorship is Vital\n\n\nhttps://biodata-club.github.io/materials"
   },
   {
     "objectID": "index.html#testimony-1",
@@ -495,5 +495,19 @@
     "title": "The Value of Compassion in Learning Data Science",
     "section": "To Cloud",
     "text": "To Cloud"
+  },
+  {
+    "objectID": "index.html#r-for-data-science-learning-community",
+    "href": "index.html#r-for-data-science-learning-community",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "R for Data Science Learning Community",
+    "text": "R for Data Science Learning Community\n https://rfordatasci.com"
+  },
+  {
+    "objectID": "index.html#my-rule-for-collaboration",
+    "href": "index.html#my-rule-for-collaboration",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "My Rule for Collaboration",
+    "text": "My Rule for Collaboration\nIf I meet you and we hit it off, we should work on something together."
   }
 ]
