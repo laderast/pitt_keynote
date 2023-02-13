@@ -321,6 +321,12 @@ You need to find it for yourself
 
 <https://carpentries.org/>
 
+## Mozilla Open Leaders
+
+![](moz.png)
+
+<https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/>
+
 # 4. Build Things Together
 
 ## Compassion in Teaching
