@@ -333,7 +333,7 @@
     "href": "index.html#is-twitter-worth-it-anymore",
     "title": "The Value of Compassion in Learning Data Science",
     "section": "Is Twitter Worth it Anymore?",
-    "text": "Is Twitter Worth it Anymore?\n\nYes, but…\nWith Caveats (blocking)"
+    "text": "Is Twitter Worth it Anymore?\n\nYes, but…\nStill\nWith Caveats (blocking)"
   },
   {
     "objectID": "index.html#thank-you-to-everyone",
@@ -368,7 +368,7 @@
     "href": "index.html#gratitude-code",
     "title": "The Value of Compassion in Learning Data Science",
     "section": "Gratitude Code",
-    "text": "Gratitude Code\n\nlibrary(tidyverse)\ngratitude <- readr::read_csv(\"gratitude.csv\") |> arrange(First)\ncol_num <- rep(1:6, each=21)[1:nrow(gratitude)]\nrow_num <- rep(seq(1:21), 6)[1:nrow(gratitude)]\ngratitude <- gratitude |> mutate(name=paste(First, Last), col_num = col_num, row_num=-row_num) \n\nggplot(gratitude) + aes(y=row_num,x=col_num, label = as.character(name), check_overlap=TRUE, hjust=0) + geom_text() + theme_minimal() + xlim(1,7) +\n  theme(axis.text = element_blank(), axis.title = element_blank(), panel.background = element_blank())\n\n\n\nhttps://laderast.github.io/pitt_keynote"
+    "text": "Gratitude Code\n\nlibrary(tidyverse)\ngratitude <- readr::read_csv(\"gratitude.csv\") |> arrange(First)\ncol_num <- rep(1:6, each=21)[1:nrow(gratitude)]\nrow_num <- rep(seq(1:21), 6)[1:nrow(gratitude)]\ngratitude <- gratitude |> mutate(name=paste(First, Last), col_num = col_num, row_num=-row_num) \n\nggplot(gratitude) + aes(y=row_num,x=col_num, label = as.character(name), check_overlap=TRUE, hjust=0) + geom_text() + theme_minimal() + xlim(1,7) +\n  theme(axis.text = element_blank(), axis.title = element_blank(), panel.background = element_blank())"
   },
   {
     "objectID": "index.html#the-unreasonable-effectiveness-of-public-work",

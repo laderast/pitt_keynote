@@ -490,11 +490,11 @@ You need to find it for yourself
 
 - R for Data Science
 - Data Visualization Society
-- 
 
 ## Is Twitter Worth it Anymore?
 
 - Yes, but...
+- Still 
 - With Caveats (blocking)
 
 
@@ -532,3 +532,8 @@ gratitude <- gratitude |> mutate(name=paste(First, Last), col_num = col_num, row
 ggplot(gratitude) + aes(y=row_num,x=col_num, label = as.character(name), check_overlap=TRUE, hjust=0) + geom_text() + theme_minimal() + xlim(1,7) +
   theme(axis.text = element_blank(), axis.title = element_blank(), panel.background = element_blank())
 ```
+
+# Questions?
+
+@tladeras 
+<https://laderast.github.io>
