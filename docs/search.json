@@ -144,7 +144,7 @@
     "href": "index.html#why-are-codes-of-conduct-important",
     "title": "The Value of Compassion in Learning Data Science",
     "section": "Why are Codes of Conduct Important?",
-    "text": "Why are Codes of Conduct Important?\n\nEstablishes the tone for the group\nStates unacceptable behavior"
+    "text": "Why are Codes of Conduct Important?\n\nEstablishes the tone for the group\nStates unacceptable behavior\n\nBioData Club Code of Conduct"
   },
   {
     "objectID": "index.html#example-ohsu-biodata-club",
@@ -326,7 +326,7 @@
     "href": "index.html#slackdiscords",
     "title": "The Value of Compassion in Learning Data Science",
     "section": "Slack/Discords",
-    "text": "Slack/Discords\n\nR for Data Science\nData Visualization Society"
+    "text": "Slack/Discords\n\nR for Data Science Learning Community\nData Visualization Society\nLife Sciences Trainers"
   },
   {
     "objectID": "index.html#is-twitter-worth-it-anymore",
@@ -459,7 +459,7 @@
     "href": "index.html#bash-for-bioinformatics",
     "title": "The Value of Compassion in Learning Data Science",
     "section": "Bash for Bioinformatics",
-    "text": "Bash for Bioinformatics"
+    "text": "Bash for Bioinformatics\n https://laderast.github.io/bash_for_bioinformatics/"
   },
   {
     "objectID": "index.html#we-started-with-6-people-and-got-this",
@@ -523,5 +523,12 @@
     "title": "The Value of Compassion in Learning Data Science",
     "section": "Mozilla Open Leaders",
     "text": "Mozilla Open Leaders\n\nhttps://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/"
+  },
+  {
+    "objectID": "index.html#r-ladies",
+    "href": "index.html#r-ladies",
+    "title": "The Value of Compassion in Learning Data Science",
+    "section": "R-Ladies",
+    "text": "R-Ladies\n https://rladies.org ## CSVConf\n\nhttps://csvconf.com/"
   }
 ]

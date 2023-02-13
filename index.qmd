@@ -224,6 +224,8 @@ You need to find it for yourself
 - Establishes the tone for the group
 - States unacceptable behavior
 
+[BioData Club Code of Conduct](https://biodata-club.github.io/code_of_conduct/)
+
 ## Example: OHSU BioData Club
 
 ::::{.columns}
@@ -309,6 +311,10 @@ You need to find it for yourself
 ![](dvs.png)
 <https://www.datavisualizationsociety.org/>
 
+## R-Ladies
+
+![](R-LadiesGlobal.png)
+<https://rladies.org>
 ## CSVConf
 
 ![](csvconf.png)
@@ -480,6 +486,7 @@ If I meet you and we hit it off, we should work on something together.
 ## Bash for Bioinformatics
 
 ![](xargs.png)
+<https://laderast.github.io/bash_for_bioinformatics/>
 
 # 6. Share Things
 
@@ -503,8 +510,9 @@ If I meet you and we hit it off, we should work on something together.
 
 ## Slack/Discords
 
-- R for Data Science
-- Data Visualization Society
+- [R for Data Science Learning Community](https://www.rfordatasci.com/)
+- [Data Visualization Society]()
+- [Life Sciences Trainers](https://lifescitrainers.org/)
 
 ## Is Twitter Worth it Anymore?
 
