@@ -280,7 +280,7 @@ You need to find it for yourself
 
 <https://biodata-club.github.io/materials>
 
-# Other Groups That Are Awesome
+# Other Learning Opportunities
 
 ## Tidy Tuesday
 
@@ -535,5 +535,6 @@ ggplot(gratitude) + aes(y=row_num,x=col_num, label = as.character(name), check_o
 
 # Questions?
 
-@tladeras 
-<https://laderast.github.io>
+- @tladeras 
+- <https://laderast.github.io>
+- @tladeras@mastodon.cloud
