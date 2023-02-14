@@ -7,6 +7,7 @@ format:
   revealjs:
     preview-links: true
     standalone: true
+    scrollable: true
     theme: sky
     progress: true
     footer: <https://laderast.github.io/pitt_keynote>
@@ -313,8 +314,14 @@ You need to find it for yourself
 
 ## R-Ladies
 
+::::{.columns}
+:::{.column}
 ![](R-LadiesGlobal.png)
+:::
+::::
+
 <https://rladies.org>
+
 ## CSVConf
 
 ![](csvconf.png)
