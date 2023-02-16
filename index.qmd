@@ -9,7 +9,6 @@ format:
     standalone: true
     scrollable: true
     theme: sky
-    progress: true
     footer: <https://laderast.github.io/pitt_keynote>
 incremental: true
 highlight-style: a11y
@@ -204,11 +203,17 @@ highlight-style: a11y
 
 ## Compassion = Psychological Safety
 
+Kahn defines Psychological Safety as: 
+
 > Psychological safety is being able to show and employ one's self without fear of negative consequences of self-image, status or career.
 
 :::{.fragment}
 [Lowering Psychological Burdens for Students](https://laderast.github.io/talks/2021-03-22-psychological-safety/)
+
+Kahn, Psychological Engagement of Personal Engagement and Disengagement from Work, <https://journals.aom.org/doi/abs/10.5465/256287>
 :::
+
+
 
 ## Psychological Safety -> Effective Learning
 
@@ -409,10 +414,6 @@ If I meet you and we hit it off, we should work on something together.
 ## Survey Results
 
 ![](word_cloud_ready4r1.png)
-
-## Survey Results
-
-![](word_cloud_ready4r2.png)
 
 ## Lots of Users All Over the Place!
 
